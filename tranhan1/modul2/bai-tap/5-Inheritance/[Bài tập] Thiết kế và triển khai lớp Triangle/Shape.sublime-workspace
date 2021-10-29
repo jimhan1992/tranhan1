@@ -1,0 +1,516 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"a",
+				"AUTO_INCREMENT"
+			],
+			[
+				"au",
+				"AUTO_INCREMENT"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"V",
+				"VARCHAR"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"B",
+				"Books_borrow"
+			],
+			[
+				"tra",
+				"tran_han"
+			],
+			[
+				"ca",
+				"category_name"
+			],
+			[
+				"p",
+				"price"
+			],
+			[
+				"N",
+				"NXB"
+			],
+			[
+				"book",
+				"book_name"
+			],
+			[
+				"b",
+				"Books"
+			],
+			[
+				"inser",
+				"INSERT"
+			],
+			[
+				"va",
+				"VALUES"
+			],
+			[
+				"s",
+				"student_name"
+			],
+			[
+				"stu",
+				"Students"
+			],
+			[
+				"db",
+				"dbpass"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"con",
+				"conn"
+			],
+			[
+				"de",
+				"demo"
+			],
+			[
+				"se",
+				"SELECT"
+			],
+			[
+				"pro",
+				"productCode"
+			],
+			[
+				"P",
+				"Products"
+			],
+			[
+				"v",
+				"VARCHAR"
+			],
+			[
+				"ke",
+				"KEY"
+			],
+			[
+				"pr",
+				"PRIMARY"
+			],
+			[
+				"her",
+				"header"
+			],
+			[
+				"user",
+				"user_password"
+			],
+			[
+				"_",
+				"$_POST"
+			],
+			[
+				"lable",
+				"label"
+			],
+			[
+				"post",
+				"position-static"
+			],
+			[
+				"from",
+				"form"
+			],
+			[
+				"include",
+				"include_once"
+			],
+			[
+				"var",
+				"varchar"
+			],
+			[
+				"fo",
+				"foreach"
+			],
+			[
+				"m",
+				"mysqli_connect_errno"
+			],
+			[
+				"mysqli_num",
+				"mysqli_num_rows"
+			],
+			[
+				"mysqli_connect_",
+				"mysqli_connect_error"
+			],
+			[
+				"if",
+				"if?"
+			],
+			[
+				"Q",
+				"QLBH.sql"
+			],
+			[
+				"sql",
+				"QLBH.sql"
+			],
+			[
+				"inclu",
+				"include_once"
+			],
+			[
+				"ec",
+				"echo"
+			],
+			[
+				"for",
+				"for"
+			],
+			[
+				"f",
+				"for"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/var/www/html/Module2_CaseStudy_LibraryManager-master/library/controller/CategoryController.php",
+			"settings":
+			{
+				"buffer_size": 2405,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/var/www/html/Module2_CaseStudy_LibraryManager-master/library/controller/UserController.php",
+			"settings":
+			{
+				"buffer_size": 8511,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"UI: Select Theme"
+			],
+			[
+				"fo",
+				"Set Syntax: Font"
+			],
+			[
+				"font",
+				"Set Syntax: Font"
+			],
+			[
+				"Install Package Control",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 112.0,
+		"history":
+		[
+			"Install Package Control"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/var/www/html/modul2",
+		"/var/www/html/modul2/bai-tap",
+		"/var/www/html/modul2/bai-tap/21-MVC Model"
+	],
+	"file_history":
+	[
+		"/var/www/html/Module2_CaseStudy_LibraryManager-master/library/controller/CategoryController.php",
+		"/var/www/html/Module2_CaseStudy_LibraryManager-master/sql/library.sql",
+		"/var/www/html/modul2/bai-tap/20- Database & CRUD/[Thực hành] Thực thi các câu lệnh CRUD trên CSDL có sẵn/src/Database.php",
+		"/var/www/html/modul2/demo_pdo/App/Model/DBConnect.php",
+		"/var/www/html/modul2/bai-tap/20- Database & CRUD/[Thực hành] Thực thi các câu lệnh CRUD trên CSDL có sẵn/index.php",
+		"/var/www/html/modul2/bai-tap/20- Database & CRUD/[Thực hành] Thực thi các câu lệnh CRUD trên CSDL có sẵn/view/delete.php",
+		"/var/www/html/modul2/bai-tap/20- Database & CRUD/[Thực hành] Thực thi các câu lệnh CRUD trên CSDL có sẵn/src/ReaderManager.php",
+		"/var/www/html/modul2/bai-tap/17-Thao tác với cơ sở dữ liệu/[Bài tập] Thiết kế và cài đặt CSDL cho ứng dụng Quản lý thư viện - P1/qltv.sql",
+		"/var/www/html/modul2/bai-tap/20- Database & CRUD/[Thực hành] Thực thi các câu lệnh CRUD trên CSDL có sẵn/view/index.php",
+		"/var/www/html/modul2/bai-tap/20- Database & CRUD/[Thực hành] Thực thi các câu lệnh CRUD trên CSDL có sẵn/css/style.css",
+		"/var/www/html/modul2/index.php",
+		"/var/www/html/modul2/bai-tap/20- Database & CRUD/[Thực hành] Thực thi các câu lệnh CRUD trên CSDL có sẵn/view/edit.php",
+		"/var/www/html/modul2/bai-tap/20- Database & CRUD/[Thực hành] Thực thi các câu lệnh CRUD trên CSDL có sẵn/untitled",
+		"/var/www/html/modul2/bai-tap/20- Database & CRUD/[Thực hành] Thực thi các câu lệnh CRUD trên CSDL có sẵn/connect.php",
+		"/var/www/html/modul2/bai-tap/19-SQL View, Index & Stored Procedure/[Bài tập] View, Index, Store Procedure/demo.sql",
+		"/var/www/html/modul2/test/test.sql",
+		"/var/www/html/modul2/QLBH.sql",
+		"/var/www/html/modul2/bai-tap/17-Thao tác với cơ sở dữ liệu/[Bài tập] Thiết kế và cài đặt CSDL cho ứng dụng Quản lý thư viện - P1/index.php",
+		"/var/www/html/modul2/bai-tap/17-Thao tác với cơ sở dữ liệu/[Bài tập] Thiết kế và cài đặt CSDL cho ứng dụng Quản lý thư viện - P1/layout/hearder.php",
+		"/var/www/html/modul2/bai-tap/17-Thao tác với cơ sở dữ liệu/[Bài tập] Thiết kế và cài đặt CSDL cho ứng dụng Quản lý thư viện - P1/layout/footer.php",
+		"/var/www/html/modul2/bai-tap/17-Thao tác với cơ sở dữ liệu/[Bài tập] Thiết kế và cài đặt CSDL cho ứng dụng Quản lý thư viện - P1/databese/database.php",
+		"/var/www/html/modul2/bai-tap/17-Thao tác với cơ sở dữ liệu/[Bài tập] Thiết kế và cài đặt CSDL cho ứng dụng Quản lý thư viện - P1/css/main.css",
+		"/var/www/html/modul2/bai-tap/17-Thao tác với cơ sở dữ liệu/[Bài tập] Thiết kế và cài đặt CSDL cho ứng dụng Quản lý thư viện - P1/category/displaycategory.php",
+		"/var/www/html/modul2/bai-tap/17-Thao tác với cơ sở dữ liệu/[Bài tập] Thiết kế và cài đặt CSDL cho ứng dụng Quản lý thư viện - P1/category/editcategory.php",
+		"/var/www/html/modul2/bai-tap/17-Thao tác với cơ sở dữ liệu/[Bài tập] Thiết kế và cài đặt CSDL cho ứng dụng Quản lý thư viện - P1/category/frmaddcategory.php",
+		"/var/www/html/modul2/bai-tap/17-Thao tác với cơ sở dữ liệu/[Bài tập] Thiết kế và cài đặt CSDL cho ứng dụng Quản lý thư viện - P1/category/deletecategory.php",
+		"/var/www/html/modul2/bai-tap/17-Thao tác với cơ sở dữ liệu/[Bài tập] Thiết kế và cài đặt CSDL cho ứng dụng Quản lý thư viện - P1/category/addcategory.php",
+		"/var/www/html/modul2/demo_crud/delete.php",
+		"/var/www/html/modul2/demo_crud/add.php",
+		"/var/www/html/modul2/demo_crud/index.php",
+		"/var/www/html/modul2/demo_crud/connect.php",
+		"/var/www/html/modul2/OOP_QL_SV/login.php",
+		"/var/www/html/modul2/test_mysql/view_user.php",
+		"/var/www/html/modul2/test_mysql/edit_user.php",
+		"/var/www/html/modul2/demo_crud/connect.php-tmp",
+		"/var/www/html/modul2/test_mysql/delete_user.php",
+		"/var/www/html/modul2/test_mysql/connect.php",
+		"/var/www/html/modul2/test_mysql/index.php",
+		"/var/www/html/modul2/test_mysql/connect.php-tmp",
+		"/home/jimhan/.config/sublime-text/Packages/Terminal/Default (Linux).sublime-keymap",
+		"/home/jimhan/.config/sublime-text/Packages/Terminal/Terminal.sublime-settings",
+		"/home/jimhan/.config/sublime-text/Packages/User/Terminal (Linux).sublime-settings",
+		"/var/www/html/modul2/test/haha.php",
+		"/var/www/html/modul2/mysqlsampledatabase.zip",
+		"/var/www/html/modul2/test/demo_php/index.php",
+		"/var/www/html/modul2/test/demo_crud/function.php",
+		"/var/www/html/index.html"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"();\n",
+			"\techo \"ket noi \".mysqli_connect_errno();",
+			"CREATE DATABASE `QLBH`;\nUSE `QLBH`;\nDROP TABLE IF EXISTS `QLBH`;\nCREATE TABLE Customer(\n\tcID int primary key auto_increment,\n\tName VARCHAR(25),\n\tcAge tinyint\n)\ninsert INTO Customer(cID,Name,cAge)\nVALUES (1,\"Minh Quan\",10),(2,\"Ngoc Oanh\",20),(3,\"Hong ha\",50);\n\nCREATE TABLE Orders(\n\toID int PRIMARY KEY auto_increment,\n\tcID int,\n\toDate Datetime,\n\toTotalPrice int,\n\tCONSTRAINT FK_Orders_Customer FOREIGN KEY (cID)\n    REFERENCES Customer(cID)\n);\ninsert INTO Orders(cID,oDate)VALUES\n(1,\"2006/03/21\"),\n(2,\"2006/03/23\"),\n(1,\"2006/03/26\")\nCREATE TABLE Product(\n\tpID int PRIMARY key auto_increment,\n\tpName VARCHAR(25),\n\tpPrice int\n);\ninsert INTO Product(pName,pPrice)VALUES('May Giat',3),\n('Tu Lanh',5),\n('Dieu Hoa',7),\n('Quat',1),\n('Bep Dien',2)\nCREATE TABLE OrderDetail(\n\toID int,\n\tpID int,\n\todQTY int,\n\tCONSTRAINT FK_OrderDetail_Orders FOREIGN KEY (oID)\n    REFERENCES Orders(oID),\n\tCONSTRAINT FK_OrderDetail_Product FOREIGN KEY (pID)\n    REFERENCES Product(pID)\n);\nINSERT INTO OrderDetail(oID,pID,odQTY)VALUES\n(1,1,3),\n(1,3,7),\n(1,4,2),\n(1,1,1),\n(1,1,8),\n(1,5,4),\n(1,3,3)\n\n",
+			"echo 'xin chào các bạn'\n",
+			"echo 'xin chào các bạn'",
+			"echo",
+			"<?php\necho 'xin chào các bạn'\n?>",
+			"<?php\n\techo 'xin chào các bạn'\n?>",
+			"'\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/var/www/html/Module2_CaseStudy_LibraryManager-master/library/controller/CategoryController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2405,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 306.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/var/www/html/Module2_CaseStudy_LibraryManager-master/library/controller/UserController.php",
+					"selected": true,
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 8511,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 816.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 65.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Shape.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 366.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
